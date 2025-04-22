@@ -73,9 +73,3 @@ This project is an internal website for a fictional software development company
 <img width="959" alt="Contact" src="https://github.com/user-attachments/assets/89ad77fe-745e-4b86-bfd3-3c8531d7a245" />
 <img width="959" alt="Services" src="https://github.com/user-attachments/assets/b09ed0da-367f-4601-9949-89ee3960b9eb" />
 
-> Add your actual screenshots here if available:
-
-```markdown
-![Home Page](Images/screenshots/home.png)
-![Services Page](Images/screenshots/services.png)
-
