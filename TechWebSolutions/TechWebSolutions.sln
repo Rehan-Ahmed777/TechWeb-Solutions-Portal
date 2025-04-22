@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TechWebSolutions", ".", "{A105E3F0-113C-94D5-F023-1A26A8146CA0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50839"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\TechWebSolutions\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50839\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50839"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\TechWebSolutions\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50839\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50839"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A105E3F0-113C-94D5-F023-1A26A8146CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A105E3F0-113C-94D5-F023-1A26A8146CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845E6DFF-3BD1-418E-84EB-CDF0BD7EC528}
+	EndGlobalSection
+EndGlobal
